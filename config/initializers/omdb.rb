@@ -1,0 +1,1 @@
+API_KEY = Rails.application.credentials.omdb_api_key
